@@ -11,7 +11,7 @@ src\components\pages\Home\AboutFea edit for description
 
 ## [ Live Website Link](https://tech-e-auth.web.app/)
 
-Also Click here : [https://tech-e-auth.web.app/](https://tech-e-auth.web.app/)
+Also Click here : [https://samvaada-nmamit.web.app/](https:/samvaada-nmamit.web.app/)
 
 ## New Feature: THREE.js View in Event Details Page and firestore impliment - 13-12-2023
 
