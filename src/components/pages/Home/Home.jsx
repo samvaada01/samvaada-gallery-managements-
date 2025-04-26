@@ -174,7 +174,7 @@ const Home = () => {
         <h2 className="text-4xl font-bold text-center mb-6">Meet the Team</h2>
         <div className="flex justify-center">
           <img 
-            src="/src/assets/video/team.jpg" 
+            src="/src/assets/video/team.gif" 
             alt="Our Team" 
             className="rounded-lg shadow-xl w-[300px] md:w-[500px] object-cover" 
           />
