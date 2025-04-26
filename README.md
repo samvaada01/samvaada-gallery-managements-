@@ -1,9 +1,5 @@
 # Samvaada
 
-
-todo:
-srujanmpadmashali@gmail.com
-
 src\components\pages\Home\AboutFea edit for description
 
 
@@ -97,6 +93,8 @@ Welcome to the Tech Event Management Website! This project is designed to help y
 - [Private Routes](#private-routes)
 - [JSON Data](#json-data)
 - [Dependencies](#dependencies)
+
+# You can try by putting the api keys and all in ur .env file of your firebase
 
 
 ## Features
