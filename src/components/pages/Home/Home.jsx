@@ -7,6 +7,8 @@ import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
 import AboutFea from "./AboutFea/AboutFea";
 import Banner from "./Banner/Banner";
+import teamGif from "../../../assets/video/team.gif";
+
 
 const Home = () => {
   const [events, setEvents] = useState([]);
@@ -173,10 +175,10 @@ const Home = () => {
       <div className="mt-16 mb-10">
         <h2 className="text-4xl font-bold text-center mb-6">Meet the Team</h2>
         <div className="flex justify-center">
-          <img 
-            src="/src/assets/video/team.gif" 
-            alt="Our Team" 
-            className="rounded-lg shadow-xl w-[300px] md:w-[500px] object-cover" 
+        <img 
+        src={teamGif}
+        alt="Our Team" 
+          className="rounded-lg shadow-xl w-[300px] md:w-[500px] object-cover" 
           />
         </div>
       </div>
